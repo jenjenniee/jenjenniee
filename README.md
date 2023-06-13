@@ -62,8 +62,10 @@
 <table>
     <tr>
         <td valign="top" width="50%" style="border: none">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenjenniee&show_icons=true&locale=en&layout=compact&theme=vue" alt="jenjenniee" />
+          <img src="https://github-readme-stats.vercel.app/api?username=jenjenniee&count_private=true&show_icons=true.png" alt="jenjenniee" width="490" height="210">
         </td>
-        ![jenjenniee's github stats](https://github-readme-stats.vercel.app/api?username=jenjenniee&show_icons=true)   </td>
+        <td valign="top" width="50%" style="border: none">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenjenniee&layout=compact" alt="jenjenniee" width="490" height="210"/>
+        </td>
     </tr>
 </table>
