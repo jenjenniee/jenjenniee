@@ -1,4 +1,6 @@
+![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=JInGyeong&fontAlign=70&rotate=13&fontAlignY=25&desc=&descAlign=70.&descAlignY=44)
 ### Hi 👋, It's me!😀
+
 
 - 🔭 I’m currently working on ...  I'm a junior in college 😉🖥️
 - 🌱 I’m currently learning ...  Android Studio
@@ -15,6 +17,7 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 - ⚡ Fun fact: ...  -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjenjenniee&count_bg=%23B0D5FF&title_bg=%23D8D8D8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h3 align="center">STACKS:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
@@ -37,11 +40,6 @@
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
@@ -69,3 +67,4 @@
         </td>
     </tr>
 </table>
+
