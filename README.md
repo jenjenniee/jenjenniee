@@ -1,24 +1,11 @@
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=JInGyeong&fontAlign=70&rotate=13&fontAlignY=25&desc=&descAlign=70.&descAlignY=44)
-### Hi 👋, It's me!😀
 
-
-- 🔭 I’m currently working on ...  I'm a senior in university 😉🖥️
-- 🌱 I’m currently learning ...  Spring, React
-- 📫 How to reach me: ... jenjennie707@gmail.com
-
-
-<!-- - 🔭 I’m currently working on ...  junior in college!!!
-- 🌱 I’m currently learning ...   IOT, SPRING, REACT
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... jenjennie707@gmail.com
-- 😄 Pronouns: ...
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-- ⚡ Fun fact: ...  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjenjenniee&count_bg=%23B0D5FF&title_bg=%23D8D8D8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<h3 align="center">STACKS:</h3>
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?&type=transparent&color=77A1D3&height=300&section=header&desc=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=77A1D3&text=Hello!%20I'm%20JinGyeong&animation=twinkling" />
+
+<h3 align="center">⚙️STACKS:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> 
@@ -56,4 +43,6 @@
         </td>
     </tr>
 </table>
+
+
 
